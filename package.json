@@ -38,7 +38,7 @@
     "sortablejs": "^1.15.0",
     "ua-parser-js": "^0.8.1",
     "vant": "^2.12.54",
-    "vue": "^2.7.14",
+    "vue": "^2.7.16",
     "vue-grid-layout": "^2.4.0",
     "vue-i18n": "^8.27.2",
     "vue-json-tree-view": "^2.1.6",
