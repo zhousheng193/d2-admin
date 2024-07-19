@@ -37,7 +37,7 @@
     "screenfull": "^5.2.0",
     "sortablejs": "^1.15.0",
     "ua-parser-js": "^0.8.1",
-    "vant": "^2.12.54",
+    "vant": "^2.13.2",
     "vue": "^2.7.14",
     "vue-grid-layout": "^2.4.0",
     "vue-i18n": "^8.27.2",
