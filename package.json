@@ -26,7 +26,7 @@
     "fuse.js": "^5.2.3",
     "github-markdown-css": "^4.0.0",
     "highlight.js": "^10.7.3",
-    "hotkeys-js": "^3.9.5",
+    "hotkeys-js": "^3.13.7",
     "js-cookie": "^2.2.1",
     "lodash": "^4.17.21",
     "lowdb": "^1.0.0",
